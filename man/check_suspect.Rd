@@ -6,6 +6,9 @@
 \usage{
 check_suspect(name)
 }
+\arguments{
+\item{name}{A suspect's name.}
+}
 \value{
 A character vector
 }

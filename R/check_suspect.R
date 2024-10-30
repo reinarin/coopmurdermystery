@@ -2,11 +2,11 @@
 #'
 #' A function to check if the named suspect is the murderer/mastermind of the mystery"
 #'
+#' @param name A suspect's name.
 #' @return A character vector
 #'
 #' @examples
 #' check_suspect("Reina Li")
-
 
 check_suspect <- function(name) {
   if (name == "Jeremy Bowers") {
