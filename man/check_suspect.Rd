@@ -4,13 +4,13 @@
 \alias{check_suspect}
 \title{check_suspect}
 \usage{
-check_suspect(name)
+check_suspect(x)
 }
 \arguments{
-\item{name}{A suspect's name.}
+\item{x}{A suspect's exact name.}
 }
 \value{
-A character vector.
+A string.
 }
 \description{
 A function to check if the named suspect is the murderer/mastermind of the mystery"
