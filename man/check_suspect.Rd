@@ -10,7 +10,7 @@ check_suspect(name)
 \item{name}{A suspect's name.}
 }
 \value{
-A character vector
+A character vector.
 }
 \description{
 A function to check if the named suspect is the murderer/mastermind of the mystery"

@@ -1,5 +1,5 @@
 Package: coopmurdermystery
-Title: A package 
+Title: COOP Murder Mystery
 Version: 0.0.0.9000
 Authors@R: 
     person("Reina", "Li", , "reinaa.li98@gmail.com", role = c("aut", "cre"),
