@@ -1,0 +1,14 @@
+Package: coopmurdermystery
+Title: A package 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Reina", "Li", , "reinaa.li98@gmail.com", role = c("aut", "cre"),
+    comment = c(ORC-ID: "0009-0002-5207-2287"))
+Description: This package includes the database needed to solve the murder mystery.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
